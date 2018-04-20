@@ -1,5 +1,5 @@
 name: alfresco-content-services
-version: 6.0.0-rc3
+version: 6.0.0-rc4-snapshot
 description: A Helm chart for deploying Alfresco Content Services
 keywords:
 - content
